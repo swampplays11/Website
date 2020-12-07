@@ -7,7 +7,7 @@ Quickly and easily find Discord bots. Use this repository to customize the websi
 
 ![Website Preview](https://i.ibb.co/mJKfRLK/image.png)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dbots-co/api)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/swampplays11/api)
 
 ## License Notice
 ![License Notice](https://i.ibb.co/Q8vQDTs/image.png)
